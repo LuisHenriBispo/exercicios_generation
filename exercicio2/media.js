@@ -12,6 +12,6 @@ let mediaNota = (nota1 + nota2 + nota3 + nota4) /4;
 
 // Saida (Retornando o valores digitados)
 console.log("-------------------------")
-console.log(`Nome do alunno: ${nomeAluno}`)
+console.log(`Nome do aluno: ${nomeAluno}`)
 console.log(`Média final: ${mediaNota.toFixed(1)}`)
 console.log("-------------------------")
