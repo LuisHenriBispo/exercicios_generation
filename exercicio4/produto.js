@@ -1,7 +1,7 @@
 //Importando readline
 const readline = require('readline-sync');
 //entrada - variaveis
-let numero1 = readline.questionFloat("Digite o primeiro do produto: ");
+let numero1 = readline.questionFloat("Digite o primeiro do número: ");
 let numero2 = readline.questionFloat("Digite a segundo número: ");
 let numero3 = readline.questionFloat("Digite a terceiro número: ");
 let numero4 = readline.questionFloat("Digite a quarto número: ");
