@@ -1,0 +1,1 @@
+const list: Array<number> = new Array<number>(12, 75);
